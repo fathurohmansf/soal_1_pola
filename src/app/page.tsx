@@ -59,7 +59,7 @@ export default function Home() {
     <main className="flex min-h-screen w-full flex-col items-center p-4 sm:p-8 md:p-12">
       <div className="w-full max-w-4xl space-y-8">
         <header className="text-center">
-          <h1 className="text-4xl font-bold tracking-tight text-primary font-headline sm:text-5xl">Pola</h1>
+          <h1 className="text-4xl font-bold tracking-tight text-primary font-headline sm:text-5xl">Mencari Pola</h1>
           <p className="mt-4 text-lg text-muted-foreground">Find all sequential permutations of a pattern in a string.</p>
         </header>
 
